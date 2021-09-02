@@ -1,8 +1,10 @@
 # flutter_design_challenge
 
 A new Flutter project.
+<img src="project image/S1.png">
 
 ## Getting Started
+
 
 This project is a starting point for a Flutter application.
 
